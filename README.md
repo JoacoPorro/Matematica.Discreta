@@ -8,6 +8,4 @@ Drives:
 Links:
 * Demostraciones teoricas (toma a veces en finales): https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb 
 
-Ejercicios Resueltos de Recurrencia -> [link](https://github.com/jporro/MatematicaDiscreta/blob/main/Resueltos%20De%20Recurrencia.pdf)
-
 Dejenme una ⭐!
