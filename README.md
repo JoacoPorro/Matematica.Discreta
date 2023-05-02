@@ -10,7 +10,7 @@ Links:
 
 Ejercicios Resueltos de Recurrencia -> [link](https://github.com/jporro/MatematicaDiscreta/blob/main/Resueltos%20De%20Recurrencia.pdf)
 
-[Ejercicios Resultos de Recurrencia](https://github.com/jporro/MatematicaDiscreta/blob/main/Resueltos%20De%20Recurrencia.pdf)
+[Resueltos de Recurrencia](https://github.com/jporro/MatematicaDiscreta/blob/main/Resueltos%20De%20Recurrencia.pdf)
 
 
 Dejenme una ⭐!
