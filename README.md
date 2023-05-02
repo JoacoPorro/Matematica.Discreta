@@ -1,8 +1,6 @@
 # MatematicaDiscreta
 Material de Matematica Discreta FIUBA
 
-En la carpeta hay ejercicios de recurrencia resueltos pasa a paso
-
 Drives:
 * https://drive.google.com/drive/u/3/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso
 * https://drive.google.com/drive/folders/1LL8IsuBF71wOJ9lVKxJ4lh5UFO8nMBgP
