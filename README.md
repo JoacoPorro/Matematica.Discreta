@@ -1,6 +1,8 @@
 # MatematicaDiscreta
 Material de Matematica Discreta FIUBA
 
+Dejo algunos ejercicios de recurrencia hecos en la carpeta Resueltos
+
 Drives:
 * https://drive.google.com/drive/u/3/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso
 * https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9
