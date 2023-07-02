@@ -4,7 +4,7 @@
 ##### Dejame una ⭐!
 
 Drives:
-* https://drive.google.com/drive/u/3/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso
+* https://drive.google.com/drive/u/3/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso (Tiene parciales corregidos)
 * https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9
 * https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing
 * https://drive.google.com/drive/u/2/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
