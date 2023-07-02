@@ -10,7 +10,7 @@ Drives:
 * https://drive.google.com/drive/u/2/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
 
 Clases:
-* https://drive.google.com/drive/u/2/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy
+* https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy
 * https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb (Videos de Maulhardt)
 
 Links:
