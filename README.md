@@ -1,5 +1,5 @@
 # Matematica Discreta
-###### Pasen drives -> jporro@fi.uba.ar
+###### Manen drives -> jporro@fi.uba.ar
 ##### Dejo algunos ejercicios de recurrencia hechos en la carpeta Resueltos
 ##### Dejame una ⭐!
 
