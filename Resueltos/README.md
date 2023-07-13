@@ -1,2 +1,2 @@
 ## Algunos resueltos
-##### Si alguno quiere compartir material lo puede subir mandandolo a jporro@fi.uba.ar (Tarda un poco en subirse)
+##### [Link](https://www.kramirez.net/Discretas/Material/Presentaciones/MD11-12EjerciciosResueltosTema5.pdf)
