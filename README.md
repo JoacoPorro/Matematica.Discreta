@@ -1,5 +1,4 @@
 # Material Matematica Discreta FIUBA
-###### Drives --> jporro@fi.uba.ar
 ##### Dejo algunos ejercicios de recurrencia hechos en la carpeta Resueltos
 
 #### Drives:
@@ -18,3 +17,5 @@
 
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
+
+###### Drives --> jporro@fi.uba.ar
