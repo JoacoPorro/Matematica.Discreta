@@ -1,4 +1,4 @@
-# Material Matematica Discreta
+# Material Matematica Discreta FIUBA
 ###### Drives que falten --> jporro@fi.uba.ar
 ##### Dejo algunos ejercicios de recurrencia hechos en la carpeta Resueltos
 ##### Dejame una ⭐!
