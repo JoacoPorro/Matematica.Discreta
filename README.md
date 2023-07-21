@@ -9,7 +9,7 @@
 * https://drive.google.com/drive/u/2/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
 
 ### Clases:
-* [*Teoria y Practica*](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
+* [**Teoria y Practica**](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
 * [Videos de Maulhardt](https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb) 
 
 ### Links:
