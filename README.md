@@ -11,10 +11,10 @@
 * [__VIDEOS DE MAULHARDT__](https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb) 
 
 #### ___LINKS___:
-* [Resueltos Recurrencia](/Resueltos)
-* [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:61:07)
-* [Demostraciones teoricas](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) _(toma a veces en finales)_
-* [Drives en zips por si pasa algo con los originales](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
+* [__RESUELTOS RECURRENCIA__](/Resueltos)
+* [__WIKI FIUBA__](http://wiki.foros-fiuba.com.ar/materias:61:07)
+* [__DEMOSTRACIONES TEORICAS__](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) _(toma a veces en finales)_
+* [__DRIVES EN ZIPS POR SI PASA ALGO CON LOS ORIGINALES__](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
 ### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
