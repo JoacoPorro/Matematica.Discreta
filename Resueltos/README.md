@@ -1,4 +1,4 @@
-## Ejercicios de Recurrencia Resueltos  _(material encontrado de internet)_
+## Ejercicios de Recurrencia Resueltos  _(material encontrado en internet)_
 
 ![Resueltos De Recurrencia-1](https://github.com/jporro/MatematicaDiscreta/assets/103942784/3f650cd3-8044-47d9-a4f7-f6cf0a48d074)
 ![Resueltos De Recurrencia-2](https://github.com/jporro/MatematicaDiscreta/assets/103942784/033824a3-68a3-4007-be2b-369ff25d393e)
