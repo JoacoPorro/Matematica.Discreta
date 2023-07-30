@@ -1,5 +1,4 @@
 # ___Material Matematica Discreta FIUBA___
-###### ___Drives --> jporro@fi.uba.ar___
 
 #### ___DRIVES___:
 * https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso (Tiene parciales corregidos)
@@ -17,6 +16,6 @@
 * [Demostraciones teoricas](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) (toma a veces en finales)
 * [Drives en zips por si pasa algo con los originales](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
-### _Deja **⭐** Arriba_
+### _Deja **⭐** Arriba Manda Drives --> jporro@fi.uba.ar_
 ### _Viva la Libertad Carajo!_
 
