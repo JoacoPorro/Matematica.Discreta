@@ -17,7 +17,7 @@
 * [___DRIVES EN ZIPS POR SI PASA ALGO CON LOS ORIGINALES___](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
 ### ___TIPS___:
-* ___Ver que EJERCICIOS toman en los PARCIALES Y FINALES. Con la GUIA NO ALCANZA___
+* ___Ver que EJERCICIOS toman en los PARCIALES Y FINALES. NO son como la GUIA___
 
 ### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
