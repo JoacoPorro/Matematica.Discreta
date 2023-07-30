@@ -1,4 +1,4 @@
-# ___Material Matematica Discreta FIUBA___
+# ___MATERIAL MATEMATICA DISCRETA FIUBA___
 
 #### ___DRIVES___:
 * https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso ___CON PARCIALES CORREGIDOS___
