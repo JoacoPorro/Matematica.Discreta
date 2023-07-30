@@ -18,6 +18,7 @@
 
 ### ___TIPS___:
 * ___Ver los EJERCICIOS que toman en PARCIALES Y FINALES, son DIFERENTES a la GUIA___
+<!--Ver  que toman en PARCIALES Y FINALES, es muy DIFERENTE a la GUIA -->
 
 ### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
