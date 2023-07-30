@@ -1,16 +1,16 @@
 # ___Material Matematica Discreta FIUBA___
 
-#### ___DRIVES___:
+### ___DRIVES___:
 * https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso ___CON PARCIALES CORREGIDOS___
 * https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9
 * https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing
 * https://drive.google.com/drive/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
 
-#### ___CLASES___:
+### ___CLASES___:
 * [___TEORIA Y PRACTICA___](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
 * [___VIDEOS DE MAULHARDT___](https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb) 
 
-#### ___LINKS___:
+### ___LINKS___:
 * [__RESUELTOS RECURRENCIA__](/Resueltos)
 * [__WIKI FIUBA__](http://wiki.foros-fiuba.com.ar/materias:61:07)
 * [__DEMOSTRACIONES TEORICAS__](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) _(toma a veces en finales)_
