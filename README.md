@@ -16,6 +16,9 @@
 * [___DEMOSTRACIONES TEORICAS___](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) ___A VECES TOMA EN FINALES___
 * [___DRIVES EN ZIPS POR SI PASA ALGO CON LOS ORIGINALES___](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
+### ___TIPS___:
+* Es importante ver que ejercicios toman en los parciales y finales porque no se parecen a los ejercicios de la guia
+
 ### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
 
