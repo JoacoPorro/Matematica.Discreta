@@ -16,6 +16,6 @@
 * [___DEMOSTRACIONES TEORICAS___](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) _(toma a veces en finales)_
 * [___DRIVES EN ZIPS POR SI PASA ALGO CON LOS ORIGINALES___](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
-### _DEJA **⭐**_
+### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
 
