@@ -1,6 +1,6 @@
 # ___Material Matematica Discreta FIUBA___
 ###### ___Drives --> jporro@fi.uba.ar___
-##### _Dejo algunos ejercicios de recurrencia hechos en la carpeta Resueltos_
+##### [Resueltos Recurrenca](/Resueltos/Recurrencia Resultos)
 
 #### ___DRIVES___:
 * https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso (Tiene parciales corregidos)
