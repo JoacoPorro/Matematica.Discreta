@@ -7,8 +7,8 @@
 * https://drive.google.com/drive/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
 
 #### ___CLASES___:
-* [Teoria y Practica](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
-* [Videos de Maulhardt](https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb) 
+* [TEORIA Y PRACTICA](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
+* [VIDEOS DE MAULHARDT](https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb) 
 
 #### ___LINKS___:
 * [Resueltos Recurrencia](/Resueltos)
