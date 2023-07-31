@@ -17,7 +17,7 @@
 * [___DRIVES EN ZIPS POR SI PASA ALGO CON LOS ORIGINALES___](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
 ### ___TIPS___:
-* ___LO QUE TOMAN EN PARCIALES Y FINALES, ES DIFERENTE A LA GUIA___
+* ___LO QUE TOMAN EN PARCIALES Y FINALES ES DIFERENTE A LA GUIA___
 <!--Ver  que toman en PARCIALES Y FINALES, es muy DIFERENTE a la GUIA -->
 
 ### _Deja **⭐**_
