@@ -13,11 +13,11 @@
 ### LINKS:
 * [__RESUELTOS RECURRENCIA__](/Resueltos)
 * [__WIKI FIUBA__](http://wiki.foros-fiuba.com.ar/materias:61:07)
-* [__DEMOSTRACIONES TEORICAS__](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) ___A VECES TOMA EN FINALES___
+* [__DEMOSTRACIONES TEORICAS__](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) __A VECES TOMA EN FINALES__
 * [__DRIVES EN ZIPS POR SI PASA ALGO CON LOS ORIGINALES__](https://drive.google.com/drive/u/1/folders/1ewmcffTqOaZw3W5vT_prZMxQDUoGcvsQ)
 
 ### TIPS:
-* __LO QUE TOMAN EN PARCIALES Y FINALES ES DIFERENTE A LA GUIA__
+* ___LO QUE TOMAN EN PARCIALES Y FINALES ES DIFERENTE A LA GUIA___
 
 ### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
