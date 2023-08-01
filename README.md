@@ -20,6 +20,6 @@
 * ___LO QUE TOMAN EN PARCIALES Y FINALES ES DIFERENTE A LA GUIA___
 <!--Ver  que toman en PARCIALES Y FINALES, es muy DIFERENTE a la GUIA -->
 
-### _Deja **⭐**_ <sup> **⭐** </sup>
+### _Deja **⭐**_
 ### _Viva la Libertad Carajo!_
 
