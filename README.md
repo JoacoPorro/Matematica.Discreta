@@ -1,6 +1,6 @@
 # __Material Matematica Discreta FIUBA__
 
-### _DRIVES_: 
+### _Drives_: 
 * _https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso_ ___CON PARCIALES CORREGIDOS___
 * _https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9_
 * _https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing_
