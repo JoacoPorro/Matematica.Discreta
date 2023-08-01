@@ -1,10 +1,10 @@
 # __Material Matematica Discreta FIUBA__
 
 ### DRIVES: 
-* _https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso_ ___CON PARCIALES CORREGIDOS___
-* _https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9_
-* _https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing_
-* _https://drive.google.com/drive/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg_
+* https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso __CON PARCIALES CORREGIDOS__
+* https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9
+* https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing
+* https://drive.google.com/drive/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
 
 ### CLASES: 
 * [__TEORIA Y PRACTICA__](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
