@@ -18,6 +18,7 @@
 
 ### TIPS:
 * ___LO QUE TOMAN EN PARCIALES Y FINALES ES DIFERENTE A LA GUIA___
+*<!-- ___VEAN [DOLLY FIUBA](https://dollyfiuba.com/resultados_old.html?mat=6107) SOBRE ACERO___ -->
 
 ### DEJA ⭐
 ### VIVA LA _LIBERTAD_ CARAJO!
