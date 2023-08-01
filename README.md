@@ -19,6 +19,6 @@
 ### TIPS:
 * ___LO QUE TOMAN EN PARCIALES Y FINALES ES DIFERENTE A LA GUIA___
 
-### _Deja **⭐**_
-### _Viva la Libertad Carajo!_
+### DEJA **⭐**
+### VIVA LA _LIBERTAD_ CARAJO!
 
