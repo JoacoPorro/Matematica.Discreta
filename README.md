@@ -6,7 +6,7 @@
 * _https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing_
 * _https://drive.google.com/drive/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg_
 
-#### ___CLASES___:
+#### _CLASES_:
 * [___TEORIA Y PRACTICA___](https://drive.google.com/drive/folders/1tPdmZbSLFGi1G8Xq9ISNbRxDimYXWERy)
 * [___VIDEOS DE MAULHARDT___](https://youtube.com/playlist?list=PLM7ZBJfsXV3Se8Mjwn8RRbkFHl4OComOb) 
 
