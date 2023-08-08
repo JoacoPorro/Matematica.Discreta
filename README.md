@@ -17,6 +17,7 @@
 
 ### Tips:
 * __Lo que toman en parciales y finales es diferente a la guia__
+* __Acero es exigente al corregir__
 <!-- ___VEAN [DOLLY FIUBA](https://dollyfiuba.com/resultados_old.html?mat=6107) SOBRE ACERO___ -->
 
 ### Deja ⭐ Arriba
