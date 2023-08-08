@@ -16,8 +16,8 @@
 * [Demostraciones Teoricas](https://gist.github.com/milemarchese/3443345e9f895018dca2dacc78a9cc77#file-6107_matematica_discreta-ejercicios_de_final-ipynb) __a veces toma en finales__
 
 ### Tips:
-* __Acero es exigente al corregir__
-* __Lo que toman en parciales y finales es diferente a la guia__
+* Acero es exigente al corregir
+* Lo que toman en parciales y finales es diferente a la guia
 <!-- ___VEAN [DOLLY FIUBA](https://dollyfiuba.com/resultados_old.html?mat=6107) SOBRE ACERO___ -->
 
 ### Deja ⭐ Arriba
