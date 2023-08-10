@@ -1,7 +1,7 @@
 # __Material Matematica Discreta FIUBA__
 
 ### Drives: 
-* https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso __con parciales corregidos__
+* https://drive.google.com/drive/folders/1WZsEJLfXGcGgrxqZNuabmyYuJoIgcoso __(el mejor)__
 * https://drive.google.com/drive/folders/1fyR-NIuN30cFThB7rGAAqfkWlm7DpbL9
 * https://drive.google.com/drive/folders/1JN5DVpu1yPhpnQ1diSGpp_F6rrwSU-T0?usp=sharing
 * https://drive.google.com/drive/folders/1kOHXEH5fnNMAgBuyhePyFC5TUcVjxJZg
